@@ -1,104 +1,64 @@
 <div align="center">
 
-  # Olá, eu sou a Nicole! 👋
-  
-  ### Dev Fullstack & Software Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C3A6FF,50:B5B8F5,100:8EE4D6&height=220&section=header&text=NICOLE&fontSize=80&fontColor=1A1625&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-  <!-- Banner estilizado com animação/tema escuro -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,11,35,40&height=200&section=header&text=NICOLE&fontSize=70&fontColor=fff&animation=twinkling" width="100%" alt="Header Banner" />
+<a href="https://github.com/Nicole-Gabrielle">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8EE4D6&center=true&vCenter=true&width=650&lines=Dev+Fullstack+%26+Software+Engineer;APIs+%E2%80%A2+Cloud+%E2%80%A2+Arquitetura+Limpa;Clean+Code+%E2%80%A2+SOLID+%E2%80%A2+Testes+Automatizados;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" />
+</a>
 
-  <br />
+<br/><br/>
 
-  <!-- Badges das Tecnologias e Linguagens -->
-  <h3>🛠️ Linguagens & Tecnologias</h3>
+<!-- ───────── TECH STACK ───────── -->
+<img src="https://img.shields.io/badge/%E2%9C%A6%20TECH%20STACK-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" />
 
-  <p>
-    <!-- Languages -->
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
+<br/>
 
-  <p>
-    <!-- Frameworks & Runtimes -->
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-    <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
-    <img src="https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Elysia" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-  </p>
+<img src="https://skillicons.dev/icons?i=java,py,go,js,ts,nodejs,nestjs,express,nextjs,react&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,prisma,aws,terraform,docker,git,github,notion&theme=dark" />
 
-  <p>
-    <!-- Frontend -->
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </p>
+<br/><br/>
 
-  <p>
-    <!-- Databases & ORM -->
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  </p>
+![Java](https://img.shields.io/badge/Java-1A1625?style=flat-square&logo=openjdk&logoColor=C3A6FF)
+![Python](https://img.shields.io/badge/Python-1A1625?style=flat-square&logo=python&logoColor=8EE4D6)
+![Go](https://img.shields.io/badge/Go-1A1625?style=flat-square&logo=go&logoColor=C3A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1625?style=flat-square&logo=javascript&logoColor=8EE4D6)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1625?style=flat-square&logo=typescript&logoColor=C3A6FF)
+![Node.js](https://img.shields.io/badge/Node.js-1A1625?style=flat-square&logo=nodedotjs&logoColor=8EE4D6)
+![NestJS](https://img.shields.io/badge/NestJS-1A1625?style=flat-square&logo=nestjs&logoColor=C3A6FF)
+![Hono](https://img.shields.io/badge/Hono-1A1625?style=flat-square&logo=hono&logoColor=8EE4D6)
+![Elysia](https://img.shields.io/badge/Elysia-1A1625?style=flat-square&logo=bun&logoColor=C3A6FF)
+![Express](https://img.shields.io/badge/Express-1A1625?style=flat-square&logo=express&logoColor=8EE4D6)
+![Fastify](https://img.shields.io/badge/Fastify-1A1625?style=flat-square&logo=fastify&logoColor=C3A6FF)
+![Next.js](https://img.shields.io/badge/Next.js-1A1625?style=flat-square&logo=nextdotjs&logoColor=8EE4D6)
+![React](https://img.shields.io/badge/React-1A1625?style=flat-square&logo=react&logoColor=C3A6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1625?style=flat-square&logo=postgresql&logoColor=8EE4D6)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1625?style=flat-square&logo=mongodb&logoColor=C3A6FF)
+![Supabase](https://img.shields.io/badge/Supabase-1A1625?style=flat-square&logo=supabase&logoColor=8EE4D6)
+![Redis](https://img.shields.io/badge/Redis-1A1625?style=flat-square&logo=redis&logoColor=C3A6FF)
+![Prisma](https://img.shields.io/badge/Prisma-1A1625?style=flat-square&logo=prisma&logoColor=8EE4D6)
+![AWS](https://img.shields.io/badge/AWS-1A1625?style=flat-square&logo=amazonwebservices&logoColor=C3A6FF)
+![Terraform](https://img.shields.io/badge/Terraform-1A1625?style=flat-square&logo=terraform&logoColor=8EE4D6)
+![Docker](https://img.shields.io/badge/Docker-1A1625?style=flat-square&logo=docker&logoColor=C3A6FF)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1A1625?style=flat-square&logo=swagger&logoColor=8EE4D6)
+![Git](https://img.shields.io/badge/Git-1A1625?style=flat-square&logo=git&logoColor=C3A6FF)
+![GitHub](https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=8EE4D6)
+![Customer.io](https://img.shields.io/badge/Customer.io-1A1625?style=flat-square&logo=maildotru&logoColor=C3A6FF)
+![Notion](https://img.shields.io/badge/Notion-1A1625?style=flat-square&logo=notion&logoColor=8EE4D6)
+![Testes](https://img.shields.io/badge/Testes%20Automatizados-1A1625?style=flat-square&logo=jest&logoColor=C3A6FF)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-1A1625?style=flat-square&logo=codefactor&logoColor=8EE4D6)
+![SOLID](https://img.shields.io/badge/SOLID-1A1625?style=flat-square&logo=databricks&logoColor=C3A6FF)
 
-  <p>
-    <!-- DevOps & Infra -->
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
+<br/><br/>
 
-  <p>
-    <!-- Tools & Concepts -->
-    <img src="https://img.shields.io/badge/Customer.io-FF4A00?style=for-the-badge&logo=customerdotio&logoColor=white" alt="Customer.io" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </p>
+<!-- ───────── ACTIVITY ───────── -->
+<img width="100%" src="./activity.svg" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EE4D6,50:B5B8F5,100:C3A6FF&height=120&section=footer" width="100%"/>
 
 </div>
 
----
 
-### 🎯 Práticas & Arquitetura
-- **Arquitetura & Engenharia:** REST APIs, Clean Code, Princípios SOLID
-- **Qualidade de Software:** Testes Automatizados (Unitários, Integração e E2E)
 
----
-
-### 📊 Estatísticas & Atividade
-
-<div align="center">
-  <!-- Gráfico de Atividade no estilo Dashboard/Pulse -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicole-Gabrielle&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Gráfico de Atividade" />
-  
-  <br /><br />
-
-  <!-- Estatísticas Gerais e Linguagens mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicole-Gabrielle&show_icons=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole-Gabrielle&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens mais utilizadas" />
-</div>
-
----
-
-<div align="center">
-  <sub>Criado com 💜 por Nicole</sub>
-</div>
-<!--
-**Nicole-Gabrielle/Nicole-Gabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
